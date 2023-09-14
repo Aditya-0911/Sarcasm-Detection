@@ -1,5 +1,23 @@
 # Sarcasm Detection in News Headlines
 
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Model Architectures](#model-architectures)
+  - [Model 1 Architecture](#model-1-architecture)
+  - [Model 2 Architecture](#model-2-architecture)
+  - [Model 3 Architecture](#model-3-architecture)
+  - [Model 4 Architecture](#model-4-architecture)
+  - [Model 5 Architecture](#model-5-architecture)
+  - [Model 6 Architecture](#model-6-architecture)
+  - [Model 7 Architecture](#model-7-architecture)
+- [Getting Started](#getting-started)
+- [Legal Considerations](#legal-considerations)
+- [Citations](#citations)
+
+
 ## Introduction
 
 Welcome to the Sarcasm Detection in News Headlines project! In a world where news headlines often blur the lines between humor and seriousness, we embark on a journey to teach machines the subtle art of sarcasm detection.
@@ -45,6 +63,11 @@ Use the ipynb file in the repository in google colab and upload your kaggle.json
 
 ## Legal Considerations
 
-This project is governed by the MIT License, which outlines how you can use, modify, and share this work. For comprehensive licensing details, consult the [LICENSE](LICENSE) file.
+This project is governed by the MIT License, which outlines how you can use, modify, and share this work. For comprehensive licensing details, consult the [LICENSE](LICENSE) file.  
 
-Join us on this exciting journey to unravel the subtleties of sarcasm in news headlines!
+## Citations
+
+1. Misra, Rishabh and Prahal Arora. "Sarcasm Detection using News Headlines Dataset." AI Open (2023).
+2. Misra, Rishabh and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021).
+
+
