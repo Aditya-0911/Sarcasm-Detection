@@ -1,5 +1,9 @@
 # Sarcasm Detection in News Headlines
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/iHLUu2G3L6kkfrwiv6/giphy.gif?cid=ecf05e47t11ps3fhoqq3811b2cx9elqhsad7q6ei6r0xetca&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Sarcasm GIF">
+</div>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -7,7 +11,6 @@
 - [Dataset](#dataset)
 - [Model Architectures](#model-architectures)
 - [Getting Started](#getting-started)
-- [Legal Considerations](#legal-considerations)
 - [Citations](#citations)
 
 
@@ -53,10 +56,6 @@ These models have undergone rigorous training and fine-tuning to excel at sarcas
 ## Getting Started
 
 Use the ipynb file in the repository in google colab and upload your kaggle.json file from Kaggle or upload the dataset provided in the repository
-
-## Legal Considerations
-
-This project is governed by the MIT License, which outlines how you can use, modify, and share this work. For comprehensive licensing details, consult the [LICENSE](LICENSE) file.  
 
 ## Citations
 
