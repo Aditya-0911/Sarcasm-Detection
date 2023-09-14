@@ -1,18 +1,11 @@
 # Sarcasm Detection in News Headlines
 
-# Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Model Architectures](#model-architectures)
-  - [Model 1 Architecture](#model-1-architecture)
-  - [Model 2 Architecture](#model-2-architecture)
-  - [Model 3 Architecture](#model-3-architecture)
-  - [Model 4 Architecture](#model-4-architecture)
-  - [Model 5 Architecture](#model-5-architecture)
-  - [Model 6 Architecture](#model-6-architecture)
-  - [Model 7 Architecture](#model-7-architecture)
 - [Getting Started](#getting-started)
 - [Legal Considerations](#legal-considerations)
 - [Citations](#citations)
