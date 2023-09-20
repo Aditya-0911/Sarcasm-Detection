@@ -30,26 +30,23 @@ Our project relies on a meticulously curated dataset of news headlines, with eac
 
 Our exploration of machine learning has given rise to a diverse range of models, each tailored to the unique challenges of sarcasm detection. We've harnessed cutting-edge techniques, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more. Here's a glimpse of some key models:
 
-### Model 1 Architecture 
-![Model 1 Architecture](assets/model_plot.png)
+### [Model 1 Architecture](assets/model_plot.png)
 
-### Model 2 Architecture
-![Model 2 Architecture](assets/model_conv_plot.png)
 
-### Model 3 Architecture
-![Model 3 Architecture](assets/model_lstm_plot.png)
+### [Model 2 Architecture](assets/model_conv_plot.png)
 
-### Model 4 Architecture
-![Model 4 Architecture](assets/model_lstm2_plot.png)
 
-### Model 5 Architecture
-![Model 5 Architecture](assets/model_lstm3_plot.png)
+### [Model 3 Architecture](assets/model_lstm_plot.png)
 
-### Model 6 Architecture
-![Model 6 Architecture](assets/model_lstm4_plot.png)
+### [Model 4 Architecture](assets/model_lstm2_plot.png)
 
-### Model 7 Architecture
-![Model 7 Architecture](assets/model_lstm5_plot.png)
+
+### [Model 5 Architecture](assets/model_lstm3_plot.png)
+
+### [Model 6 Architecture](assets/model_lstm4_plot.png)
+
+
+### [Model 7 Architecture](assets/model_lstm5_plot.png)
 
 These models have undergone rigorous training and fine-tuning to excel at sarcasm detection. Dive into the code to explore their inner workings!
 
